@@ -19,7 +19,9 @@
 
 <a href="https://discord.gg/ystbKHKsVv" target="_blank"> Portal Omega Discord Server </a>
 <br />
-<a href="https://youtu.be/-tsmZCnG9t8?si=aHvEdeCDNrd8NFbv" target="_blank">
+<a href="https://www.youtube.com/@portalomega-mod" target="_blank"> Portal Omega Youtube Channel </a>
+<br />
+<a href="https://youtu.be/-tsmZCnG9t8" target="_blank">
 	Portal Omega Trailer
 </a>
 <br />
