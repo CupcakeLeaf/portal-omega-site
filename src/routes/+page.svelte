@@ -77,7 +77,7 @@
 			</ul>
 		</div>
 	</main>
-	<footer class="footer text-md text-center py-1">
+	<footer class="footer text-md text-center py-1 h-8">
 		<p>website by cheesechair and gamesrevolution</p>
 	</footer>
 </div>
@@ -108,10 +108,10 @@
 	}
 
 	.divider svg {
+		@apply h-8 sm:h-14 md:h-16;
 		position: relative;
 		display: block;
 		width: calc(100% + 1.3px);
-		height: 50px;
 	}
 
 	.divider .shape-fill {
