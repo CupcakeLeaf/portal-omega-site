@@ -51,7 +51,7 @@
 			</p>
 			<hr />
 		</div>
-		<div class="flex flex-col items-center justify-start h-full">
+		<div class="flex flex-col gap-5 items-center justify-start h-full">
 			<h1 id="links" class="text-4xl">Links</h1>
 			<ul class="flex gap-2 h-full justify-center items-center">
 				<li>
